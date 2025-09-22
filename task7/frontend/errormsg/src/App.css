@@ -1,0 +1,31 @@
+button {
+  padding: 8px 16px;
+  border: none;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+.error-box {
+  margin-top: 20px;
+  padding: 10px;
+  background: #ffe5e5;
+  border: 1px solid red;
+  color: red;
+}
+
+.success-box {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid lime;
+  border-radius: 8px;
+  color: green;
+}
+
+.loading{
+  margin-top: 20px;
+}
